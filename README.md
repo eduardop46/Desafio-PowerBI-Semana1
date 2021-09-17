@@ -76,3 +76,7 @@ Tabela veículos
   -  Pedidos(n) - (1)Produtos = muitos para 1 (n - 1)
   -  Pedidos(n) - (1)Veículos = muitos para 1 (n - 1)
   -  Estoque(n) - (1)Produtos = muitos para 1 (n - 1)
+
+# Dashboard
+
+https://app.powerbi.com/view?r=eyJrIjoiNGEwMzhjZWQtOWY5Yy00YTBhLThjNWItZTQ2YmNhZDRmNTI3IiwidCI6IjBiZGE4NTNlLWM3OTktNDFiYi1hNWRlLTJjOWJhNDFjNGQ1YiJ9
